@@ -1,0 +1,44 @@
+name: Michael Scott
+period: Q3'24
+okrs:
+  - tag_id: okr-1-boost-office-morale
+    objective: Dramatically increase office morale through unconventional team-building activities
+    initiatives: Implement fun office policies , Organize surprise events
+    key_results:
+      - tag_id: kr-1-1-themed-days
+        description: Organize and execute 6 elaborate themed office days
+        frequency: bi-weekly
+      - tag_id: kr-1-2-improv-sessions
+        description: Conduct 12 mandatory improv comedy sessions for the entire office
+        frequency: weekly
+      - tag_id: kr-1-3-magic-tricks
+        description: Learn and perform 5 new magic tricks during meetings to keep employees engaged
+        frequency: monthly
+
+  - tag_id: okr-2-increase-paper-sales
+    objective: Boost Dunder Mifflin paper sales through innovative (and questionable) sales techniques
+    initiatives: Implement unorthodox sales strategies, Personal involvement in major sales
+    key_results:
+      - tag_id: kr-2-1-cold-calls
+        description: Make 50 personal cold calls using various celebrity impersonations
+        frequency: weekly
+      - tag_id: kr-2-2-client-gifts
+        description: Send personalized, inappropriate gifts to 10 major clients (e.g., Dundie awards, self-portraits)
+        frequency: monthly
+      - tag_id: kr-2-3-sales-stunts
+        description: Perform 3 outrageous publicity stunts to attract new customers (e.g., parkour demonstration, flash mob)
+        frequency: quarterly
+
+  - tag_id: okr-3-personal-growth
+    objective: Achieve personal growth and recognition as the Worlds Best Boss
+    initiatives: Self-promotion campaign, Skill development
+    key_results:
+      - tag_id: kr-3-1-catchphrase-creation
+        description: Coin and repeatedly use 5 new office catchphrases until they catch on
+        frequency: monthly
+      - tag_id: kr-3-2-documentary-footage
+        description: Ensure personal appearance in at least 75% of all documentary footage
+        frequency: ongoing
+      - tag_id: kr-3-3-management-books
+        description: Start writing a management advice book, completing at least 3 chapters of questionable wisdom
+        frequency: quarterly

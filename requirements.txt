@@ -1,0 +1,12 @@
+boto3==1.34.134
+requests
+dateparser
+git+https://github.com/newmanrs/clickuphelper
+git+https://github.com/newmanrs/ayrsharehelper
+ipython
+typing-extensions
+pydantic
+anthropic
+rich
+prompt-toolkit
+pydantic_yaml
